@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://twitter.com/liveemilyhere" target="blank"><img src="https://img.shields.io/twitter/follow/liveemilyhere?logo=twitter&style=for-the-badge" alt="liveemilyhere" /></a> </p>
 
-- 🔭 I’m currently working on my opensource project called [Nextpad](https://github.com/liveemily/nextpad)
+- 🌍 I’m currently working on my opensource project called [Nextpad](https://github.com/liveemily/nextpad)
 
-- 🌱 The stuff I'm learning ~~(struggling with)~~ **C99, NextJS, Discord.js, Discord.py, DSharpPlus and many more!**
+- 🔎 The stuff I'm learning ~~(struggling with)~~ **C99, NextJS, Discord.js, Discord.py, DSharpPlus and many more!**
 
 - 👯 I’m looking to collaborate on any project, just hit me up at (W.I.P.) [Discord](https://discord.liveemily.com)
 
-- 👨‍💻 All of my projects are available at (W.I.P.) [https://liveemily.com](https://liveemily.com)
+- 💻 All of my projects are available at (W.I.P.) [https://liveemily.com](https://liveemily.com)
 
-- 💬 Ask me about **anything NodeJS or Discord related.**
+- 💾 Ask me about **anything NodeJS or Discord related.**
 
-- 📫 How to reach me **emily@liveemily.com**
+- 📧 How to reach me **emily@liveemily.com**
 
-- ⚡ Fun fact **I like kats a lot, please donate kats.**
+- 💜 Fun fact **I like kats a lot, please donate kats.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me (It's not worth it):</h3>
 <p align="left">
 <a href="https://twitter.com/liveemilyhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liveemilyhere" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15589459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15589459" height="30" width="40" /></a>
