@@ -5,7 +5,7 @@
 
 - Have a gander around and see if you like anything, I won't bite!
 
-- Feel free to message me on Discord! `Emily 🎀#2412`
+- Feel free to message me on Discord! `Emily 🎀#1234`
 
 - Fun fact, did you know I **love** cats and vibing with my friends?
 
