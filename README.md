@@ -14,6 +14,10 @@
 # Pinned Repos
 
 <p align="center">
+<a href="https://github.com/LiveEmily/ArchieInstall">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liveemily&repo=ArchieInstall&hide_border=true&theme=gruvbox" />
+</a>
+  
 <a href="https://github.com/LiveEmily/KrulTepasBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=liveemily&repo=KrulTepasBot&hide_border=true&theme=gruvbox" />
 </a>
