@@ -30,3 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=liveemily&repo=nextpad&hide_border=true&theme=gruvbox" />
 </a>
 </p>
+
+# Most used languages
+
+<p align="center"><img alt="Emily's Lanuage Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveEmily&langs_count=10&theme=gruvbox&layout=compact" /></p>
