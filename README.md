@@ -9,13 +9,14 @@
 ```cs
 Emily @ Archie
 -------------------------
-OS: Arch Linux x86_64 | Void Linux x86_64 MUSL
+OS: Arch Linux x86_64 | Void Linux x86_64 GLibC | Debian 9 x86_64
 Shell: zsh 5.8.1-1 | dash 5.11.5
-Terminal: st
-WM: dwm
-Pronouns: she/her
+Terminal: st (custom fork)
+WM: dwm (custom fork)
+Pronouns: she/her they/them
 Location: Netherlands
-Languages: ASM-x86_64, C, C++, Rust, C#, JavaScript, Python
-Learning: C and ASM-x86_64
+Languages: Dutch (native), English (professional), German (simple)
+Programming Languages: ASM-x86_64/ASM-RISC-V, C, C++, Rust, C#, JavaScript, Python, Lua, Bash/Shell, PowerShell
+Learning: C and ASM-x86_64/ASM-RISC-V
 Discord: Emily 🎀#1234
 ```
