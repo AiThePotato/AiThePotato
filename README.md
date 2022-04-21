@@ -16,7 +16,8 @@ WM: dwm (custom fork)
 Pronouns: she/her they/them
 Location: Netherlands
 Languages: Dutch (native), English (professional), German (simple)
-Programming Languages: ASM-x86_64/ASM-RISC-V, C, C++, Rust, C#, JavaScript, Python, Lua, Bash/Shell, PowerShell
+Programming: ASM-x86_64/ASM-RISC-V, C, C++, Rust, C#, JavaScript, Python,
+Lua, Bash/Shell, PowerShell
 Learning: C and ASM-x86_64/ASM-RISC-V
 Discord: Emily 🎀#1234
 ```
